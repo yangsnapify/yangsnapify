@@ -26,7 +26,7 @@ I'm a software engineer with years of experience, primarily working with Rust an
 <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" />
 </picture>
 </a>
-<a href="https://www.linkedin.com/in/jonathan-lim-guo-yang" target="_blank" rel="noreferrer">
+<a href="https://www.linkedin.com/in/jonathan-lim-guo-yang-866576219" target="_blank" rel="noreferrer">
 <picture>
 <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin-dark.svg" />
 <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" />
