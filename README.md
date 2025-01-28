@@ -1,13 +1,13 @@
 
 
 
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Yangsnapify
+Hi :hand:My name is Yangsnapify :eyes:
 ==============================================================================================================================
 
 I'm a software engineer with years of experience, primarily working with Rust and JavaScript. I have a background in developing various applications and enjoy taking on technical challenges in both languages. Right now, I'm in love with Rust and still learning it, while also developing my own game.
 
-* 🌍  I'm based in Malaysia and working remotely to Singapore
-* ✉️  You can contact me at [trustour9@gmail.com](mailto:trustour9@gmail.com)
+* :earth_asia:  I'm based in Malaysia and working remotely to Singapore
+* :mailbox:  You can contact me at [trustour9@gmail.com](mailto:trustour9@gmail.com)
 * :bomb: [Play Minesweeper Now!](https://yangsnapify.github.io/minesweeper-js/)
 
 ### Skills
