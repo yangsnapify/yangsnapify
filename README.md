@@ -43,9 +43,14 @@ I'm a software engineer with years of experience, primarily working with Rust an
 ![Yangsnapify's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=yangsnapify&theme=tokyo-night)
 
 
-### Conclusion
+### 面试心得
 <p>一流的公司专注于卓越，二流的公司止步于平庸，三流的公司则困于琐碎。你我皆为沧海一粟，不应自视过高，更不该轻视他人的努力或践踏他人的尊严。人生是一个不断学习与试错的过程，而非用来批判或贬低他人。年龄的增长不应成为失去教养的借口。
-回顾历史，那些成就卓越的公司从未依靠运气成功。他们凭借独特的视角、坚定的信念和不懈的努力，一次次突破极限，成就非凡。成功不在于死扣工具或概念，而在于思考与实践。如果换我来考你，你未必能答得上来，这是否意味着你无能？是否意味着你不配？当然不是。无论过去还是现在，Apple、NVIDIA、Xiaomi、ChatGPT、DeepSeek等企业，皆是如此。</p>
+回顾历史，那些成就卓越的公司从未依靠运气成功。他们凭借独特的视角、坚定的信念和不懈的努力，一次次突破极限，成就非凡。
+
+成功不在于死扣工具或字眼，而在于思考与实践。如果换我来考你，你未必能答得上来，这是否意味着你无能？是否意味着你不配？当然不是。
+
+无论过去还是现在，Apple、AWS、NVIDIA、Xiaomi、ChatGPT、DeepSeek等企业，皆是如此。看别人的好你每天都能进步 看别人的不好 你永远只能是个井底之蛙</p>
+
 
 <p>Top-tier companies strive for excellence, second-tier companies remain mediocre, and third-tier companies get lost in trivialities. We are all but fleeting specks in the grand scheme of things—there's no reason to overestimate ourselves, nor to belittle others' efforts or trample on their dignity. Life is a journey of continuous learning and trial and error, not a stage for criticism or degradation. Growing older should never be an excuse for losing basic manners.
 
