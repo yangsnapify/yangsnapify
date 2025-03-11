@@ -46,8 +46,6 @@ I'm a software engineer with years of experience, primarily working with Rust an
 ### Notes
 <p>Top-tier companies strive for excellence, second-tier companies remain mediocre, and third-tier companies get lost in trivialities. We are all but fleeting specks in the grand scheme of things—there's no reason to overestimate ourselves, nor to belittle others' efforts or trample on their dignity. Life is a journey of continuous learning and trial and error, not a stage for criticism or degradation. Growing older should never be an excuse for losing basic manners.
 
-<P>op-tier companies focus on excellence, second-tier companies remain mediocre, and third-tier companies get caught up in trivialities. We are all just tiny specks in the vast world—there's no reason to overestimate ourselves, nor to dismiss others' efforts or trample on their dignity. Life is a continuous journey of learning and trial and error, not a platform for criticism or belittlement. Growing older should never be an excuse for losing basic manners.
-
 Looking back at history, the success of outstanding companies has never been a matter of luck. They have achieved greatness time and again through unique perspectives, unwavering determination, and relentless effort. Success doesn’t come from nitpicking tools or words—it comes from thinking and doing. If I were the one testing you, you might not have all the answers—does that mean you're incompetent? Does it mean you're unworthy? Of course not.
 
 Whether in the past or present, companies like AAPL, AMZN, NVDA, Bytedance, Xiaomi, ChatGPT, and DeepSeek have all followed this path. If you focus on others' strengths, you will improve every day. But if you only focus on their flaws, you will forever remain a frog in a well.</p>
